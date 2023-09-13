@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="generator" content="Mobirise v4.10.7, mobirise.com">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">    
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <meta name="description" content="Venta de equipo deportivo a domicilio pago contra entrega en CDMX y envíos a todo México">
 
     <title>Venta de equipo deportivo a domicilio pagas al recibir tus artículos</title>
 
-    
+
     <style amp-boilerplate>
         body {
             -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
@@ -3388,21 +3388,22 @@
         fbq('init', '603499584596714');
         fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=603499584596714&ev=PageView&noscript=1" /></noscript>
+    <noscript><img height="1" width="1" style="display:none" 
+src="https://www.facebook.com/tr?id=603499584596714&ev=PageView&noscript=1" /></noscript>
     <!-- End Meta Pixel Code -->
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWKGKK30KK"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWKGKK30KK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-    gtag('config', 'G-DWKGKK30KK');
-  </script>
+        gtag('config', 'G-DWKGKK30KK');
+    </script>
 
 </head>
 
@@ -3417,41 +3418,44 @@
             <!-- NAVBAR ITEMS -->
             <ul class="navbar-nav nav-dropdown navbar-nav-top-padding" data-app-modern-menu="true">
                 <li class="nav-item">
-                    <a class="nav-link link text-black display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/" aria-expanded="false">Enid Service</a>
+                    <a class="nav-link link text-black display-7" href="https://enidservices.com/pesas" aria-expanded="false">Enid 
+Service</a>
                 </li>
-
+        
                 <li class="nav-item dropdown">
-                    <a class="nav-link link text-black dropdown-toggle display-7" aria-expanded="false"
-                        data-toggle="dropdown-submenu">Lo más buscado</a>
+                    <a class="nav-link link text-black dropdown-toggle display-7" aria-expanded="false" 
+data-toggle="dropdown-submenu">Lo más buscado</a>
                     <div class="dropdown-menu">
-                        <a class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=kitsmasvendidos"
-                                    aria-expanded="false">Kits de pesas y barras</a>
-                                    
-                                    <a
-                                    class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=solomst"
-                                    aria-expanded="false">Mancuernas</a>
+                        <a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/rastrea-paquete/" 
+aria-expanded="false">Rastrea mi paquete</a>
+
+<a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/forma_pago/?info=1#cobertura" 
+aria-expanded="false">Zonas de cobertura</a>
 
 
-                                    <a
-                                    class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=solobdp"
-                                    aria-expanded="false">Bancos de posiciones</a>
+<a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/cambios-y-devoluciones/" 
+aria-expanded="false">Cambios y devoluciones</a>
+
+<a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/clientes/" 
+aria-expanded="false">Referencias</a>
 
 
-                                    <a
-                                    class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=epgym"
-                                    aria-expanded="false">Equipo para GYM</a>
 
-                                    
-                        
-                        
-                        </div>
+                       
+
+
+                    </div>
                 </li>
-               
+
             </ul>
             <!-- NAVBAR ITEMS END -->
             <!-- SHOW BUTTON -->
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-md mbr-semibold btn-primary display-7"
-                href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/">Checa tu equipo ya!</a></div>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-md mbr-semibold btn-primary display-7" 
+href="https://enidservices.com/pesas">Encuentra tu equipo ya!</a></div>
             <!-- SHOW BUTTON END -->
         </div>
     </amp-sidebar>
@@ -3474,41 +3478,39 @@
                     <!-- NAVBAR ITEMS -->
                     <ul class="navbar-nav nav-dropdown navbar-nav-top-padding" data-app-modern-menu="true">
                         <li class="nav-item">
-                            <a class="nav-link link text-black display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/"
-                                aria-expanded="false">Enid Service</a>
+                            <a class="nav-link link text-black display-7" href="https://enidservices.com/pesas" 
+aria-expanded="false">Enid Service</a>
                         </li>
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link link text-black dropdown-toggle display-7" aria-expanded="false"
-                                data-toggle="dropdown-submenu">Lo más buscado</a>
+                            <a class="nav-link link text-black dropdown-toggle display-7" aria-expanded="false" 
+data-toggle="dropdown-submenu">Lo más buscado</a>
                             <div class="dropdown-menu">
-                                
-                                <a class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=kitsmasvendidos"
-                                    aria-expanded="false">Kits de pesas y barras</a>
-                                    
-                                    <a
-                                    class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=solomst"
-                                    aria-expanded="false">Mancuernas</a>
+
+                            <a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/rastrea-paquete/" 
+aria-expanded="false">Rastrea mi paquete</a>
 
 
-                                    <a
-                                    class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=solobdp"
-                                    aria-expanded="false">Bancos de posiciones</a>
+<a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/forma_pago/?info=1#cobertura" 
+aria-expanded="false">Zonas de cobertura</a>
 
+<a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/cambios-y-devoluciones/" 
+aria-expanded="false">Cambios y devoluciones</a>
 
-                                    <a
-                                    class="text-black dropdown-item display-7" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=epgym"
-                                    aria-expanded="false">Equipo para GYM</a>
+<a class="text-black dropdown-item display-7" 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/clientes/" 
+aria-expanded="false">Referencias</a>
 
-
-                                </div>
+                            </div>
                         </li>
-                        
                     </ul>
                     <!-- NAVBAR ITEMS END -->
                     <!-- SHOW BUTTON -->
-                    <div class="navbar-buttons mbr-section-btn"><a class="btn btn-md mbr-semibold btn-primary display-7"
-                            href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/">Checa tu equipo ya!</a></div>
+                    <div class="navbar-buttons mbr-section-btn"><a class="btn btn-md mbr-semibold btn-primary display-7" 
+href="https://enidservices.com/pesas">Encuentra tu equipo ya!</a></div>
                     <!-- SHOW BUTTON END -->
                 </div>
                 <!-- COLLAPSED MENU END -->
@@ -3533,10 +3535,18 @@
             <div class="mbr-row">
                 <div class="mbr-col-sm-12 mbr-col-md-12 mbr-m-auto mbr-col-lg-6">
                     <div class="content mbr-p-4">
-                        <h1 class="mbr-section-title align-left mbr-fonts-style mbr-pb-2 mbr-semibold display-1">KITS DEPORTIVOS A DOMICILIO, PAGAS A TU ENTREGA.</h1>
-                        <p class="mbr-text align-left mbr-regular mbr-pb-3 mbr-fonts-style display-5">Te ayudamos a
-                            pasar al siguiente nivel, llevamos tus kits de pesas y pagas al recibirlas CDMX.
+                        <h1 class="mbr-section-title align-left mbr-fonts-style mbr-pb-2 mbr-semibold display-1">KITS DEPORTIVOS A 
+DOMICILIO, PAGAS A TU ENTREGA.</h1>
+                        <p class="mbr-text align-left mbr-regular mbr-pb-3 mbr-fonts-style display-5">
+                            Llevamos tus pesas y pagas al recibirlas 
+                            en CDMX, algunas partes del EDOMEX y también hacemos envíos a toda la República Mexicana!
 
+                        </p>
+                        <p class="mbr-text3 align-left mbr-regular mbr-fonts-style display-5">
+                            <a 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/forma_pago/?info=1" 
+class="text-secondary text-underline">Checa como funciona!
+                                &gt;</a>
                         </p>
                     </div>
                 </div>
@@ -3544,8 +3554,8 @@
 
                 <div class="mbr-col-sm-12 mbr-col-md-12 img-col mbr-col-lg-6">
                     <div class="image-block">
-                        <amp-img src="imgs/04.jpg" layout="responsive" width="935.8208955223881" height="627"
-                            alt="image" class="placeholder-loader">
+                        <amp-img src="imgs/04.jpg" layout="responsive" width="935.8208955223881" height="627" alt="image" 
+class="placeholder-loader">
                             <div placeholder="" class="placeholder">
                                 <div class="mobirise-spinner">
                                     <em></em>
@@ -3553,7 +3563,8 @@
                                     <em></em>
                                 </div>
                             </div>
-                            <a href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=kitsmasvendidos"></a>
+                            <a 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=kitsmasvendidos"></a>
                         </amp-img>
                     </div>
                 </div>
@@ -3576,8 +3587,8 @@
             <div class="mbr-row">
                 <div class="mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6 img-col">
                     <div class="image-block">
-                        <amp-img src="imgs/06.jpg" layout="responsive" width="968.0331753554503" height="890"
-                            alt="image" class="placeholder-loader">
+                        <amp-img src="imgs/06.jpg" layout="responsive" width="968.0331753554503" height="890" alt="image" 
+class="placeholder-loader">
                             <div placeholder="" class="placeholder">
                                 <div class="mobirise-spinner">
                                     <em></em>
@@ -3591,16 +3602,16 @@
                 </div>
                 <div class="mbr-col-sm-12 mbr-col-md-12 mbr-m-auto mbr-col-lg-6">
                     <div class="content mbr-p-4">
-                        <h1
-                            class="mbr-section-title align-left mbr-fonts-style mbr-pb-1 mbr-bold display-1  text-uppercase">
+                        <h1 class="mbr-section-title align-left mbr-fonts-style mbr-pb-1 mbr-bold display-1  text-uppercase">
                             RECIBES <br> EL MISMO DÍA<br>
                         </h1>
                         <p class="mbr-text2 align-left mbr-regular mbr-pb-3 mbr-fonts-style display-5">
-                            Agendas hoy y recibes hoy todo con tal de que inicies ya!
+                            Agendas hoy y recibes hoy, todo con tal de que inicies ya!
                         </p>
                         <p class="mbr-text3 align-left mbr-regular mbr-fonts-style display-5">
-                            <a href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&q=kitsmasvendidos&order=2"
-                                class="text-secondary">Ve al catálogo!
+                            <a 
+href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&q=kitsmasvendidos&order=2" 
+class="text-secondary">Ve al catálogo!
                                 &gt;</a>
                         </p>
                     </div>
@@ -3608,6 +3619,22 @@
             </div>
         </div>
     </section>
+    
+    <section class="info1 cid-rDgIwy0UWr" id="info1-2l">
+        
+            <div class="container">
+                <div class="copyright mbr-flex mbr-jc-c">
+                    <p class="mbr-text mbr-fonts-style mbr-white align-center display-5">
+                        ¿Las comprarás después? 
+                        <a class="btn btn-md  btn-primary display-7" 
+href="https://www.facebook.com/enidservicemx/shop/?ref_code=share_shop&ref_surface=share_shop">Sigamos en contacto!</a>
+                    </p>
+                    
+                </div>
+            </div>
+        
+    </section>
+    
 
     <section class="Features3 cid-rDgIqnL3no" id="features3-2j">
 
@@ -3617,12 +3644,12 @@
                 <div class="mbr-col-sm-12 mbr-col-md-12 mbr-m-auto mbr-col-lg-6">
                     <div class="content mbr-p-4">
                         <h1 class="mbr-section-title align-left mbr-fonts-style mbr-pb-1 mbr-bold display-1">
-                            MÁS DE 1000 CLIENTES<br>YA INICIARON&nbsp;</h1>
-                            <p class="mbr-text3 align-left mbr-regular mbr-fonts-style display-5">
-                                <a href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&q=kitsmasvendidos&order=2"
-                                    class="text-secondary">Checa nuestras referencias!
-                                    &gt;</a>
-                            </p>
+                        CONTAMOS CON RESPALDO!<br>&nbsp;</h1>
+                        <p class="mbr-text3 align-left mbr-regular mbr-fonts-style display-5">
+                            <a href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/clientes/" 
+class="text-secondary">Checa nuestras referencias!
+                                &gt;</a>
+                        </p>
 
                     </div>
                 </div>
@@ -3630,8 +3657,8 @@
 
                 <div class="mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6 img-col">
                     <div class="image-block">
-                        <amp-img src="imgs/05.jpg" layout="responsive" width="967.1412680756396" height="645"
-                            alt="image" class="placeholder-loader">
+                        <amp-img src="imgs/05.jpg" layout="responsive" width="967.1412680756396" height="645" alt="image" 
+class="placeholder-loader">
                             <div placeholder="" class="placeholder">
                                 <div class="mobirise-spinner">
                                     <em></em>
@@ -3655,15 +3682,19 @@
         </div>
     </section>
 
+    <a href="https://enidservices.com/pesas" class="text-white">
     <section class="info1 cid-rDgIwy0UWr" id="info1-2l">
-
-
-        <div class="container">
-            <div class="copyright mbr-flex mbr-jc-c">
-                <p class="mbr-text mbr-fonts-style mbr-white align-center display-5"><a href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=kitsmasvendidos"
-                        class="text-white">Elige tu equipo ya!</a></p>
+        
+            <div class="container">
+                <div class="copyright mbr-flex mbr-jc-c">
+                    <p class="mbr-text mbr-fonts-style mbr-white align-center display-5">
+                        Elige tu equipo ya!
+                    </p>
+                </div>
             </div>
-        </div>
+        
     </section>
+    </a>
 </body>
+
 </html>
