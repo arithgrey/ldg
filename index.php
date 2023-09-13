@@ -3564,7 +3564,7 @@ class="placeholder-loader">
                                 </div>
                             </div>
                             <a 
-href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&order=2&q=kitsmasvendidos"></a>
+href="https://enidservices.com/pesas"></a>
                         </amp-img>
                     </div>
                 </div>
@@ -3610,7 +3610,7 @@ class="placeholder-loader">
                         </p>
                         <p class="mbr-text3 align-left mbr-regular mbr-fonts-style display-5">
                             <a 
-href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&q=kitsmasvendidos&order=2" 
+href="https://enidservices.com/pesas" 
 class="text-secondary">Ve al catálogo!
                                 &gt;</a>
                         </p>
